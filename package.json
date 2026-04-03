@@ -1,7 +1,7 @@
 {
-  "name": "nanoclaw",
+  "name": "board-os",
   "version": "1.2.47",
-  "description": "Personal Claude assistant. Lightweight, secure, customizable.",
+  "description": "RTB BoardOS — Secure agent runtime for Run The Board",
   "type": "module",
   "main": "dist/index.js",
   "scripts": {
